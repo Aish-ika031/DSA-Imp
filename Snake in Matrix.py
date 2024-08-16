@@ -21,4 +21,4 @@ class Solution:
 
                 c -= 1
 
-    return c
+        return c
